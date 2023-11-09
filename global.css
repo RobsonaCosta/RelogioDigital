@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+    border: none;
+   
+      
+
+}
+
+body{
+    background: url(Gif/Relogio3.gif) center;
+    background-size: cover;  
+}
+

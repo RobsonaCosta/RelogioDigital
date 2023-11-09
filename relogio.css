@@ -1,0 +1,46 @@
+
+@font-face {
+    font-family: 'nova';
+    src: url(Cheese\ Burger.otf);
+}
+
+h1{
+    text-align: center;
+    color: black;   
+    font-size: 60px; 
+    font-family: 'nova';
+    
+}
+
+#principal{
+    display: grid;
+    place-items: center;
+    height: 90vh;
+    
+    
+}
+
+#principal section{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    
+
+}
+
+section div{
+    display: flex;
+    color: #f7ab48de;
+    width: 30%;
+    text-align: center;
+    font-size: 40px;
+    flex-direction: column; 
+    background-color: rgba(0, 0, 0, 0.637);
+    border-radius: 30%;  
+    font-family: nova;  
+}
+
+
+    
+
+
